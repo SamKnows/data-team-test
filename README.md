@@ -6,7 +6,7 @@ Thank you for your interest in becoming part of SamKnows. We would like you to c
 
 Before we start, we want to give you an idea of what we are looking for and what should be considered for your solution.
 
-This should roughly take you three hours. If you'd like to do more, but don't have time then please mention it in your README.
+This should roughly take you a couple of hours. If you'd like to do more, but don't have time then please mention it in your README.
 
 We highly recommend and prefer you use PHP for this task (It's a language heavily used within SamKnows) if you know it, however, we will also accept submissions in Python or Go.
 
