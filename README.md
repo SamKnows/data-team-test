@@ -1,4 +1,4 @@
-# SamKnows Technical Test (Data Team)
+# SamKnows Code Test (Data Team)
 
 > This is the technical test for our data team positions at SamKnows. If you just stumbled across this and you are interested in joining our team, go to [our careers page](https://samknows.com/careers) to see if we are hiring.
 
