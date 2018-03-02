@@ -8,7 +8,7 @@ Before we start, we want to give you an idea of what we are looking for and what
 
 This should roughly take you three hours. If you'd like to do more, but don't have time then please mention it in your README.
 
-We highly recommend using PHP for this task (It's a language heavily used within SamKnows) if you know it, however, we will also accept submissions in Python or Go.
+We highly recommend and prefer you use PHP for this task (It's a language heavily used within SamKnows) if you know it, however, we will also accept submissions in Python or Go.
 
 ## Do’s
 - *Do* use appropriate libraries (e.g. `symfony/console`, micro-frameworks, HTTP libraries)
